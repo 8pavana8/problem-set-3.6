@@ -1,0 +1,36 @@
+
+body {
+  background-color:lightyellow;
+}
+
+h1 {
+  color: darkblue;
+}
+
+p {
+  color: darkgreen;
+}
+
+
+li {
+  color: darkgreen;
+}
+
+div {
+  color: darkgreen;
+}
+
+
+
+
+.colorteal {
+  color: teal;
+}
+
+.lightblue {
+  background-color: lightblue;
+}
+
+body {
+    font-family: "Times New Roman", Times, serif;
+}
