@@ -8,26 +8,32 @@ body {
 h1 {
   color: darkblue;
   font-size: 30px;
+  tetx-decoration: underline; 
 }
 
-p {
+span p {
   color: darkgreen;
 }
-
 
 li {
   color: darkgreen;
 }
 
-div {
+div table {
   color: darkgreen;
 }
 
 a:hover {
-  font-size: 20px;
+  font-size: 20px; 
 }
 
+a:visited {
+  color: blue;
+}
 
+a:link {
+  color: blue; 
+}
 
 .colorteal {
   color: teal;
@@ -53,8 +59,16 @@ a:hover {
   font-style: bold;
 }
 
-footer * {color:darkblue;}
+footer * {
+  color:darkblue;
+}
 
 span img {
-    
+  border: 1px solid;
+  border-radius: 10px; 
+  height: 100px;
+  width: 100px; 
+  color: black;
+  margin: 15px;
+  padding: 10px; 
 }
