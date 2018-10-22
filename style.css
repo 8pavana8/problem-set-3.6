@@ -48,3 +48,7 @@ a:hover {
 #listitalicized {
   font-style: italic;
 }
+
+#tabletitle {
+  font-style: bold;
+}
