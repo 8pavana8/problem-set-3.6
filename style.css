@@ -1,10 +1,13 @@
 
 body {
   background-color:lightyellow;
+  font-family: "Times New Roman", Times, serif;
+  font-style: oblique;
 }
 
 h1 {
   color: darkblue;
+  font-size: 30px;
 }
 
 p {
@@ -31,6 +34,10 @@ div {
   background-color: lightblue;
 }
 
-body {
-    font-family: "Times New Roman", Times, serif;
+.darkblue {
+  color: darkblue;
+}
+
+#indextitle {
+  font-size: 40px;
 }
