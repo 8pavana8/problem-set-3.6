@@ -44,3 +44,7 @@ a:hover {
 #indextitle {
   font-size: 40px;
 }
+
+#titleitalicized {
+  font-style: italic;
+}
